@@ -1,0 +1,121 @@
+*{
+margin: 0%;
+padding: 0%;
+align-items: center;
+/*-------------------------------------------HEADING-----------------------------------------------------------*/
+}
+.head{
+    background-color: #eaf6f6;
+}
+.h{
+    margin-left: 15%;
+}
+span{
+    text-decoration: underline;
+}
+.name{
+
+    width: 30%;
+    color: #66bfbf;
+    font-size: 2rem;
+    margin: auto 35%;
+    font-family: 'Dancing Script', cursive;
+}
+.top-cloud{
+    margin: auto 44% ;
+    margin-bottom: 5px;
+}
+.pro{
+text-decoration: underline;
+}
+.p{
+   margin: auto 20%;
+}
+.mountain{
+    margin: auto 25%;
+}
+.bottom-cloud{
+    position: absolute;
+}
+hr{
+    margin: auto;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    color: gray;
+    align-items: center;
+    border-width: 5px; 
+}
+/*------------------------------------------body--------------------------------------------------------*/
+.middle{
+    background-color: #eaf6f6;
+height: 80%;
+}
+.profile{
+    margin-left: 43%;
+    margin-top: 2%;
+    clip-path: circle();
+}
+h2{
+    font-size: 2em;
+    color: #66bfbf;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom: 6%;
+}
+.p-2{
+   font-size: 1.5em;
+    text-align: center;
+    margin-left: 0%;
+    margin-top: 2%;
+
+}
+.developing{
+    font-size: 2em;
+    color: #66bfbf;
+    text-align: center;
+    margin-left: -16%;
+    margin-top: -3%;
+    margin-bottom: -3%;
+}
+.dev{
+    clip-path: circle();
+}
+.web{
+    margin: -20% 33% 0% 37%;
+    font-family: cursive;
+    font-size: 1.5em;
+}
+.read{
+    font-size: 2em;
+    color: #66bfbf;
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 6%;
+}
+.books{
+    clip-path: circle(20% at 49% 37%);
+    margin-left: -15%;
+}
+.book{
+    margin: -47% 31% 0%;
+    font-family: cursive;
+    font-size: 1.5em;
+}
+.talking{
+    margin-left: -14%;
+    clip-path: circle(20% at 49% 26%)
+  
+}
+.talk{
+    font-size: 2em;
+    color: #66bfbf;
+    text-align: center;
+    margin: 7% 1% 1% 11%;
+}
+.baat{
+font-family: cursive;
+font-size: 1.5em;
+margin: -37% 37% 0;
+}
